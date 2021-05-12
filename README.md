@@ -21,3 +21,7 @@ library.
 1. Create a folder named dataset and another one named trainer inside the folder with your code (in this case inside Driver Seat folder)
 2. Install shape_predictor_68_face_landmarks.dat file
 3. Run Projallin.py file
+
+
+The flow works as follows,
+![Flow](https://user-images.githubusercontent.com/83297868/117921800-5fc25100-b2bf-11eb-872a-1d41150020e9.png)
