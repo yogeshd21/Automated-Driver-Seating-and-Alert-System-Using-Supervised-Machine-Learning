@@ -18,6 +18,6 @@ new user data or update the preferred seating position for an established user. 
 the visualization of seating position adjustments, we have used pycairo graphics
 library.
 
-1. Create a folder named dataset
+1. Create a folder named dataset and another one named trainer inside the 
 2. Install shape_predictor_68_face_landmarks.dat file
 3. 
