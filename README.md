@@ -17,3 +17,7 @@ adjusted based on the recognized face of an established user, the ability to add
 new user data or update the preferred seating position for an established user. For
 the visualization of seating position adjustments, we have used pycairo graphics
 library.
+
+1. Create a folder named dataset
+2. Install shape_predictor_68_face_landmarks.dat file
+3. 
