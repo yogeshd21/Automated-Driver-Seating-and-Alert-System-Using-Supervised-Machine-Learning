@@ -26,5 +26,7 @@ The flow works as follows,
 
 ![Flow](https://user-images.githubusercontent.com/83297868/117921800-5fc25100-b2bf-11eb-872a-1d41150020e9.png)
 
+
 The different seating arrangements provided here are as follows,
+
 ![Seatsall](https://user-images.githubusercontent.com/83297868/117921969-aa43cd80-b2bf-11eb-8e1e-a6156b8681a1.png)
