@@ -31,5 +31,5 @@ The different seating arrangements provided here are as follows,
 
 ![Seatsall](https://user-images.githubusercontent.com/83297868/117921969-aa43cd80-b2bf-11eb-8e1e-a6156b8681a1.png)
 
-## Other Authors
+## Other Contributers
 [Radhika Lakhkar](https://github.com/lradhika10)
